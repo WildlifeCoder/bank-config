@@ -1,0 +1,12 @@
+
+build:
+  version: "v0.0.2"
+
+support:
+  message: "Welcome to the accounts DEFAULT bank system"
+  contactInfo:
+    name: "Miguel Coy"
+    email: "example@mail.com"
+  contactNumbers:
+    - "(57) 3114441122"
+    - "(57) 3006667778"
