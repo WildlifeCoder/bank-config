@@ -3,7 +3,7 @@ build:
   version: "v0.0.2"
 
 support:
-  message: "Welcome to the accounts PRODUCTION bank system MODIFIED 2"
+  message: "Welcome to the accounts PRODUCTION bank system MODIFIED 3"
   contactInfo:
     name: "Product Owner"
     email: "examplepo@mail.com"
